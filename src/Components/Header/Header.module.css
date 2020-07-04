@@ -1,0 +1,54 @@
+
+.wrapper
+{
+    width: 960px;
+    margin: 0 auto;
+}
+.hidden
+{
+    display: none;
+}
+.main
+{
+    background-color: #fee366;
+    height: 100px;
+    padding: 18px;
+}
+.logo
+{
+    float: left;
+    width: 110px;
+    margin-right: 110px;
+}
+.item
+{
+    float: left;
+    margin-right: 50px;
+    font-size: 30px;
+    font-weight: 350;
+    margin-top: 8px;
+}
+.search
+{
+    float: right;
+    margin-top: 15px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    padding-left: 15px;
+    outline: none;
+}
+.footer
+{
+    width: 345px;
+    margin: 0 auto;
+    background-color: #222222;
+    height: 25px;
+    border-radius: 0 0 5px 5px;
+}
+.enter
+{
+    color: white;
+    margin-left: 150px;
+    font-weight: 200;
+}

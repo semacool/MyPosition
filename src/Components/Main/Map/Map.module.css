@@ -1,0 +1,25 @@
+.head
+{
+    font-size: 120px;
+    color: #fee366;
+    font-weight: 200;
+}
+.map
+{
+    height: 450px;
+    background-color: #222222;
+    border-radius: 20px;
+    margin-bottom: 45px;
+}
+
+.more_mymarkers
+{
+    display: block;
+    background-color: unset;
+    width: 20px;
+    height: 20px;
+    background-image: url(details/img/moreinfo.svg);
+    border: none;
+    margin: 0 auto;
+    outline: none;
+}

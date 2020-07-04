@@ -1,0 +1,33 @@
+.ru
+{
+    padding-left: 65px;
+}
+.user
+{
+    width: 240px;
+    height: 65px;
+    float: left;
+    margin: 15px 0;
+}
+.text
+{
+    float: left;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    line-height: 15px;
+    overflow: hidden;
+}
+.photo
+{
+    background-color: #222222;
+    width: 65px;
+    height: 65px;
+    float: left;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.name
+{
+    float: left;
+}

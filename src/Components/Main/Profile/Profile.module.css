@@ -1,0 +1,33 @@
+.photo
+{
+    height: 300px;
+    border-radius: 30px;
+    background-color: #222222;
+    margin: 20px 0;
+}
+.friends
+{
+    float: left;
+    width: 480px;
+    height: 215px;
+}
+.freindhead
+{
+    display: block;
+    width: 480px;
+    height: 55px;
+}
+.info
+{
+    display: block;
+    float: left;
+    width:480px;
+    height: 40px;
+}
+.head
+{
+    font-size: 120px;
+    color: #fee366;
+    font-weight: 200;
+    margin-bottom: 20px;
+}

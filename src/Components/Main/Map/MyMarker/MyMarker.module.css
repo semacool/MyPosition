@@ -1,0 +1,42 @@
+.article
+{
+    width: 410px;
+    float: left;
+}
+
+.title
+{
+    padding-left: 65px;
+    background-image: url(details/img/marker.svg);
+    font-size: 25px;
+    font-weight: 600;
+    background-repeat: no-repeat;
+    background-position: left;
+    float: left;
+}
+
+.cordX,.cordY
+{
+    float: left;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+
+.rm
+{
+    margin-left: 130px ;
+}
+.likes, .comments
+{
+    float: left;
+    border-radius: 2px;
+    color: #fee366;
+    background-color: #222222;
+    width: 40px;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+.text
+{
+    margin: 25px 0;
+}

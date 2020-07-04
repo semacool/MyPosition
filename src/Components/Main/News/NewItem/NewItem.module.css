@@ -1,0 +1,31 @@
+.article
+{
+    margin-bottom: 35px;
+}
+.title
+{
+    padding-left: 65px;
+    background-image: url(details/img/marker.svg);
+    font-size: 25px;
+    font-weight: 600;
+    background-repeat: no-repeat;
+    background-position: left;
+    float: left;
+}
+.author,.date 
+{
+    float: right;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.text
+{
+    margin: 30px auto;
+    text-align: justify;
+}
+.map
+{
+    height: 150px;
+    background-color: #222222;
+    border-radius: 20px;
+}
